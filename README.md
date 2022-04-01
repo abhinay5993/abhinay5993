@@ -1,20 +1,25 @@
 <h1 align="center">Hi 👋, I'm Abhinay Lunawat</h1>
-<h3 align="center">A passionate QA-Automation SDET developer from India</h3>
+<h3 align="center">A passionate QA-Automation SDET Tester,developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinay5993&label=Profile%20views&color=0e75b6&style=flat" alt="abhinay5993" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinay5993" alt="abhinay5993" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abhinay_lunawat" target="blank"><img src="https://img.shields.io/twitter/follow/@abhinay_lunawat?logo=twitter&style=for-the-badge" alt="@abhinay_lunawat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhinay_lunawat" target="blank"><img src="https://img.shields.io/twitter/follow/abhinay_lunawat?logo=twitter&style=for-the-badge" alt="abhinay_lunawat" /></a> </p>
+
+- 🌱 I’m currently learning **Java Back-end development with Spring,Django,Data Structure and Algorithms**
 
 - 💬 Ask me about **Java,Selenium,Appium,RestAssured API Automation,API Testing,Maven,GIT**
 
 - 📫 How to reach me **abhinaylunawat5993@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yHKjBY7y-Ga_A8ndOqvuCKnkZokJ6Y_Y/view?usp=sharing](https://drive.google.com/file/d/1yHKjBY7y-Ga_A8ndOqvuCKnkZokJ6Y_Y/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@abhinay_lunawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhinay_lunawat" height="30" width="40" /></a>
+<a href="https://twitter.com/abhinay_lunawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinay_lunawat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinay-lunawat-257887a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinay-lunawat-257887a3" height="30" width="40" /></a>
+<a href="https://fb.com/abhinayl5993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinayl5993" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhinaylunawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinaylunawat" height="30" width="40" /></a>
 </p>
 
