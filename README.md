@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhinaylunawat5993@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yHKjBY7y-Ga_A8ndOqvuCKnkZokJ6Y_Y/view?usp=sharing](https://drive.google.com/file/d/1yHKjBY7y-Ga_A8ndOqvuCKnkZokJ6Y_Y/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yHKjBY7y-Ga_A8ndOqvuCKnkZokJ6Y_Y/view](https://drive.google.com/file/d/1yHKjBY7y-Ga_A8ndOqvuCKnkZokJ6Y_Y/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
