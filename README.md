@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinay5993&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="abhinay5993" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay5993&" alt="abhinay5993" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhinay5993&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="abhinay5993" /></p>
