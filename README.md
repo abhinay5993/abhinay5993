@@ -19,6 +19,8 @@
 <a href="https://linkedin.com/in/abhinay-lunawat-257887a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinay-lunawat-257887a3" height="30" width="40" /></a>
 <a href="https://fb.com/abhinayl5993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinayl5993" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhinaylcode5993gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinaylunawat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhinay5993leetco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinay5993leetco" height="30" width="40" /></a>
+<a href="https://discord.gg/abhinay5993l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhinay5993l" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay5993&show_icons=true&locale=en&layout=compact" alt="abhinay5993" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinay5993&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="abhinay5993" /></p>
 &nbsp;&nbsp;&nbsp;<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay5993&" alt="abhinay5993" /></p>
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinay5993&theme=react-dark" alt="abhinay5993" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinay5993&theme=dracula" alt="abhinay5993" /></p>
