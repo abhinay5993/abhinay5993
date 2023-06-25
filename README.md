@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/abhinay-lunawat-257887a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinay-lunawat-257887a3" height="30" width="40" /></a>
 <a href="https://fb.com/abhinayl5993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinayl5993" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhinaylcode5993gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinaylunawat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinay5993leetco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinay5993leetco" height="30" width="40" /></a>
 <a href="https://discord.gg/abhinay5993l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhinay5993l" height="30" width="40" /></a>
 </p>
 
