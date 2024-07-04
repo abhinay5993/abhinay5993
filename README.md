@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinay Lunawat</h1>
-<h3 align="center">A passionate QA-Automation SDET | aspiring Full-Stack Developer from India.</h3>
+<h3 align="center">A passionate QA-Automation SDET | aspiring Cloud DevOps from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinay5993&label=Profile%20views&color=0e75b6&style=flat" alt="abhinay5993" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhinay_lunawat" target="blank"><img src="https://img.shields.io/twitter/follow/abhinay_lunawat?logo=twitter&style=for-the-badge" alt="abhinay_lunawat" /></a> </p>
 
-- 🌱 I’m currently learning **Java Back-end development with Spring,Django,Data Structure and Algorithms**
+- 🌱 I’m currently learning **AWS,Azure DevOps Cloud Platform,CI-CD,Docker,Kubernetes,Ansible,Terraform,DSA & Systems design concepts**
 
-- 💬 Ask me about **Java,Selenium,Appium,RestAssured API Automation,API Testing,Maven,GIT**
+- 💬 Ask me about **Java,Selenium,Appium,RestAssured API Automation,API Testing,Maven,Git,Linux**
 
 - 📫 How to reach me **abhinaylunawat5993@gmail.com**
 
