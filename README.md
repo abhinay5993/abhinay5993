@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhinay_lunawat" target="blank"><img src="https://img.shields.io/twitter/follow/abhinay_lunawat?logo=twitter&style=for-the-badge" alt="abhinay_lunawat" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,Azure DevOps Cloud Platform,CI-CD,Docker,Kubernetes,Ansible,Terraform,DSA & Systems design concepts**
+- 🌱 I’m currently learning **AWS,Azure DevOps Cloud,CI-CD,Docker,Kubernetes,Ansible,Terraform,DSA & Systems design concepts**
 
-- 💬 Ask me about **Java,Selenium,Appium,RestAssured API Automation,API Testing,Maven,Git,Linux**
+- 💬 Ask me about **Java-8,Selenium,Appium,RestAssured API Automation,API Testing,Maven,Git,Linux**
 
 - 📫 How to reach me **abhinaylunawat5993@gmail.com**
 
